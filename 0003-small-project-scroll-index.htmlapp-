@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scroll App</title>
+    <link rel="stylesheet" href="./main.css">
+</head>
+<body>
+    <div class="container">
+        <div class="info">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore molestiae cupiditate reprehenderit id, laboriosam nemo illum eligendi dolore molestias porro quasi similique laborum quas fugit assumenda architecto deleniti neque soluta, saepe commodi illo dolorum. Quam, quasi mollitia a inventore dignissimos necessitatibus eligendi quis deserunt temporibus? Distinctio, velit? Laborum rem dolorem, aspernatur cupiditate dolorum ab reiciendis quisquam iure hic voluptas obcaecati?</div>
+        <div class="info">Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic consequuntur quis id praesentium maxime sapiente ratione a necessitatibus reprehenderit quasi quibusdam qui corporis perspiciatis cum aut eveniet vero itaque vel similique, deserunt vitae accusantium. Voluptatem, aperiam. Voluptatem quidem excepturi, totam tempore incidunt temporibus unde provident suscipit similique veritatis, aliquam eaque.</div>
+        <div class="info">Lorem ipsum dolor sit amet consectetur adipisicing elit. Error itaque consequatur veritatis nihil ipsum, deserunt illo sunt assumenda natus, dolorum vero sapiente maiores deleniti quis esse quisquam nostrum soluta molestias laboriosam impedit odio! Sapiente perspiciatis dolor optio ipsa esse. Qui.</div>
+    </div> 
+</body>
+</html>
