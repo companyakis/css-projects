@@ -1,0 +1,18 @@
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+.container {
+
+    width: 1050px;
+    border: 3px solid black;
+    margin: 30px auto;
+}
+
+.box {
+    text-align: center;
+    width: 100px;
+    height: 100px;
+    font-size: 40px;
+}
