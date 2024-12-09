@@ -1,0 +1,27 @@
+.container {
+
+    width: 600px;
+    height: 400px;
+    border: 3px solid black;
+    margin-bottom: 15px;
+}
+
+.in-box-1 {
+    width: 50%;
+    height: 40%;
+    background-color: blue;
+}
+
+.container2 {
+
+    width: 800px;
+    height: 300px;
+    border: 3px solid purple;
+    
+}
+
+.in-box-2 {
+    width: 50%;
+    height: 40%;
+    background-color: green;
+}
