@@ -1,0 +1,7 @@
+/* compound css usage  */
+
+p.same {
+
+    font-style: italic;
+    background-color: cadetblue;
+}
