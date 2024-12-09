@@ -1,0 +1,19 @@
+.container .box {
+
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    margin: 10px;
+}
+
+.box {
+    font-size: 30px;
+    text-align: center;
+    border: 1px solid black;
+}
+
+/* n-th child usage */
+
+.container .box:nth-child(3) {
+    background-color: green;
+}
