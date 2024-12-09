@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+}
+
+.container {
+    width: 100vw;
+    height: 400px;
+    background-color: blue;
+    margin-bottom: 15px;
+
+}
+
+.container2 {
+    width: 100px;
+    height: 400px;
+    background-color: green;
+
+}
