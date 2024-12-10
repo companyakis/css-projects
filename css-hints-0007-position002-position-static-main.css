@@ -1,0 +1,26 @@
+div {
+    width: 70%;
+    height: 100px;
+    margin: 30px;
+    border-radius: 15px;
+}
+
+#first {
+    background-color: blue;
+}
+
+#last{
+    background-color: green;
+}
+
+#middle {
+    background-color: yellow;
+    position: static; 
+    /* static is default */
+    top: 30px;
+}
+
+/* warning
+
+The position: static property prevents top from having an effect.
+Try setting position to something other than static. */
