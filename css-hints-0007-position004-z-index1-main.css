@@ -1,0 +1,24 @@
+div {
+    width: 70%;
+    height: 100px;
+    margin: 30px;
+    border-radius: 15px;
+}
+
+#first {
+    background-color: blue;
+}
+
+#last{
+    background-color: green;
+}
+
+#middle {
+    background-color: yellow;
+    position: relative; 
+    top: 50px;
+    left: 45px;
+    z-index: -1;
+}
+
+/* z index logic => bigger is stronger */
