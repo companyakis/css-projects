@@ -1,0 +1,14 @@
+.box1 {
+    position: relative;
+    width: 400px;
+    height: 400px;
+    background-color: rgb(140, 106, 140);
+
+}
+
+span {
+    position: absolute;
+    font-size: 30px;
+    right: 0px;
+}
+
