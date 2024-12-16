@@ -1,0 +1,31 @@
+body {
+    height: 100vh;
+    margin: 0;
+    background-color: indianred;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+.container {
+    position: relative;
+    text-decoration: none;
+    font-size: 30px;
+    color: white;
+    background-color: green;
+    border-radius: 15px;
+    border: 3px solid white;
+    padding: 15px 30px;
+    margin: 15px;
+}
+
+.container .counter {
+    position: absolute;
+    top: -15px;
+    right: -15px;
+    background-color: blue;
+    border-radius: 50%;
+    padding: 10px;
+    font-size: 20px;
+    border: 2px solid white;
+}
