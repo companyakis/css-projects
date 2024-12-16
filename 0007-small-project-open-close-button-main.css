@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    background-color: rgb(126, 126, 242);
+} 
+
+p {
+    color: white;
+    font-size: 25px;
+}
+
+.box {
+    height: 100vh;
+    width: 100px;
+    background-color: rgb(152, 203, 152);
+    position: fixed;
+    top: 0;
+    right: 0;
+
+}
+
+.close {
+    font-size: 40px;
+    position: absolute;
+    color: blue;
+    background-color: white;
+    top: 0;
+    right: 0;
+    padding: 5px 10px;
+    border: none;
+
+}
+
+
+
+
+
+
+
+
+
+
+
