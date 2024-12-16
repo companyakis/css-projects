@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    background-color: darkgray;
+    
+}
+
+.box1 {
+
+    width: 400px;
+    height: 400px;
+    background-color: green;
+    border: none;
+    margin: 100px auto;
+    position: relative;
+}
+
+.box2 {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    position: absolute;
+    left: -100px;
+    bottom: 100px;
+}
+
+.box3 {
+    width: 200px;
+    height: 200px;
+    background-color: purple;
+    border-radius: 50%;
+    position: absolute;
+    right: -100px;
+    top: 100px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
