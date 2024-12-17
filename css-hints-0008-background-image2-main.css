@@ -1,0 +1,15 @@
+.container {
+
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+    background-image: url(https://picsum.photos/300/300);
+    text-align: center;
+    padding: 10px;
+    color: rgb(83, 7, 7);
+    font-size: 25px;
+    margin: 100px auto;
+
+    background-repeat: no-repeat;
+    
+}
