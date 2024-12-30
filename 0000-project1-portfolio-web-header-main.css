@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 90px;
+    background-color: blue;
+    padding: 0px 10px;  
+}
+
+.header-picture {
+    width: 64px;
+    height: 64px;
+    border-radius: 10px;
+}
+
+.header-text {
+    color: rgb(196, 217, 182);
+    font-size: 25px;
+    font-style: italic
+}
+
+.header-link {
+    text-decoration: none;
+    color: rgb(196, 217, 182);
+    font-size: 20px;
+    margin: 0px 10px;
+    font-style: italic
+}
